@@ -54,14 +54,14 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.pairingNumber = "6285882135288" //masukkan nomor yang ingin menjadi bot agar pairing code muncul pada saat install melalui panel
+global.pairingNumber = "6283848177521" //masukkan nomor yang ingin menjadi bot agar pairing code muncul pada saat install melalui panel
 global.botname = "Hikabot" //namabot kalian
 global.ownername = "Hikaaa" //nama kalian
 global.myweb = "https://tiktok.com/sky4you666" //bebas asal jan hapus
 global.youtube = "https://instagram.com/@hikabaik" //bebas asal jan hapus
 global.myweb2 = "https://instagram.com/@sky4you" //bebas
 global.grup_wa = "https://wa.me/6285882135288" //bebas yg penting jgn di kosongin/hapus
-global.email = "hikabaik04@gmail.com" //bebas
+global.email = "hikabaik4@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Bogor' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
